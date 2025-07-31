@@ -1,4 +1,4 @@
-package day2;
+package day4;
 import java.util.Arrays;
 public class mergearray {
 	public static void main(String[] args) {
