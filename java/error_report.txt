@@ -1,0 +1,6 @@
+Employee: E003, Date: 2023-07-29
+Missing OUT for IN at 2023-07-29T09:30
+--------
+Employee: E004, Date: 2023-07-29
+Expected IN but found OUT at 2023-07-29T17:00
+--------

@@ -1,0 +1,3 @@
+Employee: E001, Date: 2023-07-29, Duration: 7h 45m
+Employee: E001, Date: 2023-07-28, Duration: 8h 0m
+Employee: E002, Date: 2023-07-28, Duration: 8h 0m
